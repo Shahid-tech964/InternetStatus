@@ -1,1 +1,2 @@
-# InternetStatus
+// Check intenet connection stability//
+The code is made for check that whether the Internet  status is active or not if  the your internet is off so you will see a snakbar with the message internet is not connected and in case of your internet is  available for your mobile phone so in this case also snakbar will be appear with message intenet conneted.So implemeting this i have use connectivity manager class who is primary resource to make this code runnable. 
